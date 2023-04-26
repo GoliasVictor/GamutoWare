@@ -9,7 +9,7 @@ var credits_pt = """
 Criado por: José Victor Santana Barbosa
 TEST
 TEST2
-
+TEST3
 Texturas usadas do jogo Sneedy de Lazy Fox Licenciadas sobre  CC BY 4.0. 
 """
 var credits_en = """
