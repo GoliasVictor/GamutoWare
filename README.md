@@ -9,3 +9,4 @@ Though development mostly happens at the start of the year, contributions, be th
 The slides (in Portuguese) used in the lectures given in 2023 can be found [here](https://drive.google.com/drive/folders/1hAMGlnixH01gWt_WVX6mnZm703ESttDf?usp=sharing).
 
 You can play Gamutoware in your browser [here](https://moraguma.itch.io/gamutoware)
+
